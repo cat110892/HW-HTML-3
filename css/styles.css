@@ -503,7 +503,7 @@ body {
 
 
     .container-portfolio{
-    width: 1600px;
+    width: 1200px;
     Padding: 0 15px;
     Margin: 0 auto;
 }
@@ -521,18 +521,14 @@ body {
     margin-right: -30px;
     }
 
-
+    
 
 
 .about-portfolio {
 
-    width: 100%;
-    height: auto;
-    left: 1015px;
-    top: 262px;
+    
 
-    background: #FFFFFF;
-    border: 1px solid #EEEEEE;
+    outline: 1px solid #EEEEEE;
     box-sizing: border-box;    
 
     flex-basis: calc((100% - 3 * 30px) / 3);
